@@ -18,11 +18,6 @@ npm install
 2. **Configurar variáveis de ambiente:**
 O arquivo `.env` já está configurado com:
 ```
-DATABASE_URL=postgres://postgres.swyeboyqaybvxhawhmvb:97979293Gg123@aws-0-sa-east-1.pooler.supabase.com:5432/postgres
-JWT_SECRET=cuidai_jwt_secret_2024_super_seguro_123
-PORT=3001
-CORS_ORIGIN=http://localhost:5173
-```
 
 3. **Sincronizar banco de dados:**
 ```bash
